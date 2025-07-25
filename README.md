@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm kaLki-x0</h1>
 <p align="center">
-  👨‍💻 API Security | Manual Tester | Recon Artist<br>
+  👨‍💻 API Security | Manual Tester | web hacking<br>
   🌐 Portfolio → <a href="https://kalki-x0.notion.site/portfolio">kalki-x0.notion.site/portfolio</a>
 </p>
 
