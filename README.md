@@ -18,11 +18,10 @@
 ### 🔗 Connect with Me
 
 [![Notion](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion)](https://kalki-x0.notion.site/portfolio)
-[![HackTheBox](https://img.shields.io/badge/-HTB-9FEF00?style=flat-square&logo=hackthebox)](https://app.hackthebox.com/profile/2128816)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kalki-x0)
 [![Twitter](https://img.shields.io/badge/-@kalki_x0-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/kalki_x0)
 
 ---
 
-> 💬 "Manual flow + recon = my hacking style. I don’t automate noise, I break logic."
+> 💬 "Manual flow + APIs = my hacking style. I don’t automate noise, I break logic."
 
